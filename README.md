@@ -1,11 +1,63 @@
-<h1 align="center">Hi 👋, I'm tskyz stars</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+tskyz+stars;Frontend+Developer+from+Indonesia;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tskyz_stars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tskyz_stars" height="30" width="40" /></a>
-<a href="https://discord.gg/timtsu0266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="timtsu0266" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&text=&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">🔥 A passionate frontend developer from Indonesia 🔥</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tskyz-stars&label=Profile%20Views&color=E50914&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Coding...-black?style=flat-square&labelColor=E50914" />
+</p>
+
+<hr style="border: 2px solid #E50914;">
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/> Connect with me
+
+<p align="left">
+<a href="https://instagram.com/tskyz_stars" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-tskyz__stars-black?style=for-the-badge&logo=instagram&logoColor=E50914&labelColor=000000&color=E50914" />
+</a>
+<a href="https://discord.gg/timtsu0266" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-timtsu0266-black?style=for-the-badge&logo=discord&logoColor=E50914&labelColor=000000&color=E50914" />
+</a>
+</p>
+
+<hr style="border: 2px solid #000000;">
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=E50914" />
+</p>
+
+<hr style="border: 2px solid #E50914;">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tskyz-stars&hide_border=true&background=000000&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=120&section=footer" />
+</p>
