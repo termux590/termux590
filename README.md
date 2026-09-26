@@ -6,7 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&fontColor=ffffff" />
 </p>
 
-<table align="center" border="0">
+<!-- ═══════════ KARTU PROFIL ═══════════ -->
+<table align="center" border="0" cellpadding="10">
 <tr>
 <td width="35%" align="center" valign="middle">
   <img src="https://images.weserv.nl/?url=i.ibb.co.com/cKkdLMkx/foto.jpg&mask=circle&w=250&h=250&fit=cover" width="200" alt="tskyz stars" />
@@ -34,11 +35,12 @@
 </tr>
 </table>
 
-<hr style="border: 1px solid #E50914;">
+<!-- ═══════════ CONNECT ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:E50914,100:000000&height=40&section=header&text=%F0%9F%91%A5%20Connect%20with%20me&fontSize=20&fontColor=ffffff&fontAlignY=55" />
+</p>
 
-### 🩸 Connect with me
-
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/tskyz_stars" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-tskyz__stars-black?style=for-the-badge&logo=instagram&logoColor=E50914&labelColor=000000&color=E50914" />
   </a>
@@ -47,40 +49,35 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #E50914;">
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=E50914" />
+<!-- ═══════════ TOOLS ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:E50914,100:000000&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Languages%20%26%20Tools&fontSize=20&fontColor=ffffff&fontAlignY=55" />
 </p>
 
-<hr style="border: 1px solid #E50914;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,git,java,js,linux,mysql,nodejs,php,python,ruby,tailwind&theme=dark&perline=6" />
+</p>
 
-### 📊 GitHub Stats
+<!-- ═══════════ STATS ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:E50914,100:000000&height=40&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=20&fontColor=ffffff&fontAlignY=55" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000" />
 </p>
 
-<hr style="border: 1px solid #E50914;">
+<!-- ═══════════ QUOTE ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:E50914,100:000000&height=40&section=header&text=%F0%9F%92%AC%20Quote&fontSize=20&fontColor=ffffff&fontAlignY=55" />
+</p>
 
 <p align="center">
   <i>"Code hard, dream harder."</i>
 </p>
 
+<!-- ═══════════ FOOTER ═══════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=120&section=footer" />
 </p>
