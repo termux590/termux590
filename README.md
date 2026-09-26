@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Focus-Frontend-black?style=flat-square&labelColor=E50914" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<hr style="border: 1px solid #E50914;">
 
 ### 🩸 Connect with me
 
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<hr style="border: 1px solid #E50914;">
 
 ### 🛠️ Languages and Tools
 
@@ -46,44 +46,16 @@
   <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=E50914" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<hr style="border: 1px solid #E50914;">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tskyz-stars&hide_border=true&background=000000&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=termux590&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5&titleColor=E50914" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-### 🎧 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31xxxxxxxxxxxxxxxxxxxxx" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=E50914&bar_color_cover=false" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=E50914" />
-</p>
+<hr style="border: 1px solid #E50914;">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=120&section=footer" />
