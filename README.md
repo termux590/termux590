@@ -1,32 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+tskyz+stars;Frontend+Developer+from+Indonesia;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+tskyz+stars;Frontend+Developer+from+Indonesia;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&text=&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&fontColor=ffffff" />
 </p>
 
-<h3 align="center">🔥 A passionate frontend developer from Indonesia 🔥</h3>
+<h3 align="center">🔥 A passionate Frontend Developer from Indonesia 🔥</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tskyz-stars&label=Profile%20Views&color=E50914&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Coding...-black?style=flat-square&labelColor=E50914" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-black?style=flat-square&labelColor=E50914" />
 </p>
 
-<hr style="border: 2px solid #E50914;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/> Connect with me
+### 🩸 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/tskyz_stars" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-tskyz__stars-black?style=for-the-badge&logo=instagram&logoColor=E50914&labelColor=000000&color=E50914" />
-</a>
-<a href="https://discord.gg/timtsu0266" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-timtsu0266-black?style=for-the-badge&logo=discord&logoColor=E50914&labelColor=000000&color=E50914" />
-</a>
+  <a href="https://instagram.com/tskyz_stars" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-tskyz__stars-black?style=for-the-badge&logo=instagram&logoColor=E50914&labelColor=000000&color=E50914" />
+  </a>
+  <a href="https://discord.gg/timtsu0266" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-timtsu0266-black?style=for-the-badge&logo=discord&logoColor=E50914&labelColor=000000&color=E50914" />
+  </a>
 </p>
 
-<hr style="border: 2px solid #000000;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ### 🛠️ Languages and Tools
 
@@ -45,17 +46,43 @@
   <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=E50914" />
 </p>
 
-<hr style="border: 2px solid #E50914;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tskyz-stars&hide_border=true&background=000000&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=tskyz-stars&hide_border=true&background=000000&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=termux590&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5&titleColor=E50914" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31xxxxxxxxxxxxxxxxxxxxx" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=E50914&bar_color_cover=false" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=E50914" />
 </p>
 
 <p align="center">
