@@ -10,6 +10,19 @@
   <img src="https://images.weserv.nl/?url=i.ibb.co.com/cKkdLMkx/foto.jpg&mask=circle&w=200&h=200&fit=cover" width="160" alt="tskyz stars" />
 </p>
 
+<p align="center">
+  <svg width="300" height="60" viewBox="0 0 300 60">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#E50914;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Fira Code, monospace" font-size="34" font-weight="700" fill="url(#grad)" stroke="#E50914" stroke-width="0.5">tskyz stars</text>
+  </svg>
+</p>
+
 <h3 align="center">🔥 A passionate Frontend Developer from Indonesia 🔥</h3>
 
 <p align="center">
