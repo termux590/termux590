@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/cKkdLMkx/foto.jpg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://images.weserv.nl/?url=i.ibb.co.com/cKkdLMkx/foto.jpg&mask=circle&w=200&h=200&fit=cover" width="160" alt="tskyz stars" />
 </p>
 
 <h3 align="center">🔥 A passionate Frontend Developer from Indonesia 🔥</h3>
@@ -56,6 +60,10 @@
 </p>
 
 <hr style="border: 1px solid #E50914;">
+
+<p align="center">
+  <i>"Code hard, dream harder."</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=120&section=footer" />
