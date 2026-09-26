@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://ibb.co.com/LDYf5bYv" />
+  <img src="https://i.ibb.co.com/cKkdLMkx/foto.jpg" />
 </p>
 
 <h3 align="center">🔥 A passionate Frontend Developer from Indonesia 🔥</h3>
