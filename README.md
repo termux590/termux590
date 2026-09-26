@@ -6,30 +6,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=180&section=header&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://images.weserv.nl/?url=i.ibb.co.com/cKkdLMkx/foto.jpg&mask=circle&w=200&h=200&fit=cover" width="160" alt="tskyz stars" />
-</p>
-
-<p align="center">
-  <svg width="300" height="60" viewBox="0 0 300 60">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#E50914;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Fira Code, monospace" font-size="34" font-weight="700" fill="url(#grad)" stroke="#E50914" stroke-width="0.5">tskyz stars</text>
-  </svg>
-</p>
-
-<h3 align="center">🔥 A passionate Frontend Developer from Indonesia 🔥</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tskyz-stars&label=Profile%20Views&color=E50914&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Coding...-black?style=flat-square&labelColor=E50914" />
-  <img src="https://img.shields.io/badge/Focus-Frontend-black?style=flat-square&labelColor=E50914" />
-</p>
+<table align="center" border="0">
+<tr>
+<td width="35%" align="center" valign="middle">
+  <img src="https://images.weserv.nl/?url=i.ibb.co.com/cKkdLMkx/foto.jpg&mask=circle&w=250&h=250&fit=cover" width="200" alt="tskyz stars" />
+  <br><br>
+  <img src="https://img.shields.io/badge/tskyz-stars-E50914?style=for-the-badge&labelColor=000000" />
+</td>
+<td width="65%" valign="middle">
+  <h2>
+    <span style="color:#E50914;">Halo, aku</span>
+    <span style="color:#ffffff;">tskyz stars</span>
+    <span style="color:#E50914;">👋</span>
+  </h2>
+  <p>
+    🩸 <b>Frontend Developer</b> dari <b>Indonesia</b><br>
+    🔥 Fokus di <b>Web & Mobile Development</b><br>
+    ⚡ Suka bikin UI yang <b>clean & modern</b><br>
+    🖤 Coding pakai <b>HTML, CSS, JS, Flutter</b><br>
+    💻 Selalu belajar hal baru setiap hari
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tskyz-stars&label=Views&color=E50914&style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Coding...-black?style=flat-square&labelColor=E50914" />
+  </p>
+</td>
+</tr>
+</table>
 
 <hr style="border: 1px solid #E50914;">
 
