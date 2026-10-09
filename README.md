@@ -71,6 +71,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Lubebansokhekel/Pasang/main/GALIRUS_OFFICIAL_1757461081.gif" width="600"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tskyz-stars&show_icons=true&hide_border=true&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=000000" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tskyz-stars&layout=compact&hide_border=true&title_color=E50914&text_color=ffffff&bg_color=000000" />
 </p>
